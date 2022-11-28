@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\DateTime\\GetDateTime","manualDependencies":["Automation Anywhere\\Bots\\DateTime\\DateFunctions.dll","Automation Anywhere\\Bots\\DateTime\\StringInString.dll"],"scannedDependencies":[]}
