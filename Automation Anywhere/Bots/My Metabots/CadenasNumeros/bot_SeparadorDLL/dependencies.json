@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\CadenasNumeros\\SeparadorDLL","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CadenasNumeros\\ClassLibrarySepMil.dll"]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\CadenasNumeros\\SeparadorDLL","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\CadenasNumeros\\ClassLibrarySepMil.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CadenasNumeros\\ClassLibrarySepMil.dll"]}
