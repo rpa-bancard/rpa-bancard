@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\PlanSaldosTes\\Entidades\\SALDO_BBVA_PC","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\PlanSaldosTes\\Entidades\\SALDO_BBVA_PC","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
