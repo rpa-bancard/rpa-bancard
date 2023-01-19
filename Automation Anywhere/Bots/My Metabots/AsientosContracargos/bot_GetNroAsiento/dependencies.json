@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\GetNroAsiento","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\GetNroAsiento","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\ReadWriteFile.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\ReadWriteFile.dll"]}
