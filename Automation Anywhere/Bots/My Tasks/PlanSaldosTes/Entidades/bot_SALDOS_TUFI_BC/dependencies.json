@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\PlanSaldosTes\\Entidades\\SALDOS_TUFI_BC","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\PlanSaldosTes\\Entidades\\SALDOS_TUFI_BC","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
