@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Sheet Select Sheet","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Excelerate.dll"]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Sheet Select Sheet","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Excelerate.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Excelerate.dll"]}
