@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G03\\FECHA+TEXTO_G03","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G03\\EstructuraJson_G03"]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G03\\FECHA+TEXTO_G03","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\StringInString.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G03\\EstructuraJson_G03"]}
