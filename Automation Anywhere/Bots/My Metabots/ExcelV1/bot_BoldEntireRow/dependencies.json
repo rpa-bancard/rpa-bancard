@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\ExcelV1\\BoldEntireRow","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\ExcelV1\\BoldEntireRow","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\ExcelV1\\Microsoft.Office.Interop.Excel.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\ExcelV1\\Microsoft.Office.Interop.Excel.dll"]}
