@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Bancard\\043-PlanillaSaldoPromedio\\02_ObtenerFechas","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\DateTime\\AddDays","Automation Anywhere\\Bots\\My Metabots\\DateTime\\DiaHabil","Automation Anywhere\\Bots\\My Metabots\\DateTime\\FormatStringWithDateTime"]}
