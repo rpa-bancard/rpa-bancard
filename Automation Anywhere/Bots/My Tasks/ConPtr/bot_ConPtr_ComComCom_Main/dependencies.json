@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\ConPtr\\ConPtr_ComComCom_Main","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\ConPtr\\ConPtr_ComComCom_Main","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting","Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConPtr_ComComCom_proceso"]}
