@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\Math\\Asin","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\Math\\Asin","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\Math\\AutomationAnywhere.Math.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Math\\AutomationAnywhere.Math.dll"]}
