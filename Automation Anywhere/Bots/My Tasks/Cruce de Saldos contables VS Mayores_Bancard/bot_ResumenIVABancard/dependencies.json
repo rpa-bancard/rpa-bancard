@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\ResumenIVABancard","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\ResumenIVABancard","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Home Cells Insert Rows","Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\AUX_ResumenIVABancard"]}
