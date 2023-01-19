@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G04A\\Compensacion_NroBoleta_Saldo","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G02\\GetFechaCompensacion","Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G04A\\Json_G04A"]}
