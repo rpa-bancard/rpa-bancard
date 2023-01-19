@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\ConExt\\entidades\\10_ATLAS\\ConExt_Atlas_PESA","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\ConExt\\entidades\\10_ATLAS\\ConExt_Atlas_PESA","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\DateTime\\DH_Extractos","Automation Anywhere\\Bots\\My Metabots\\Extractos\\InOut_procesados","Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
