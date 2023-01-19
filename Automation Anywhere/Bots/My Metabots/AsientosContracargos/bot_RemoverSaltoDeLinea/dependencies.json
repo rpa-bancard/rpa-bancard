@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\RemoverSaltoDeLinea","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\RemoverSaltoDeLinea","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\ReadWriteFile.dll"],"scannedDependencies":[]}
