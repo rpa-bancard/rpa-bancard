@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\CSVquery\\NumberOfRows","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\CSVquery\\NumberOfRows","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\CSVquery\\RowsOfCSV.dll","Automation Anywhere\\Bots\\My Metabots\\CSVquery\\Write in CSV.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CSVquery\\RowsOfCSV.dll"]}
