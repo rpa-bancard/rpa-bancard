@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\AsientosMaestroContr\\ConsultaTipoCambio","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\AsientosMaestroContr\\ConsultaTipoCambio","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
