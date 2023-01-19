@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\Cruce_Resumen_SAP","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\Cruce_Resumen_SAP","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\f_ConexionSap","Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\f_ConsultaSAPF01"]}
