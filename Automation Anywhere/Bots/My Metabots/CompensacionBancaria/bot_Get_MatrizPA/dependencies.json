@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\Get_MatrizPA","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G04A\\GetNroBoleta"]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\Get_MatrizPA","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\StringInString.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G04A\\GetNroBoleta"]}
