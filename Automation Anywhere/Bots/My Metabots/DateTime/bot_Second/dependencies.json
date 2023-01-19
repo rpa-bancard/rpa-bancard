@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\DateTime\\Second","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\DateTime\\Second","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\DateTime\\DateFunctions.dll","Automation Anywhere\\Bots\\My Metabots\\DateTime\\StringInString.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\DateTime\\DateFunctions.dll"]}
