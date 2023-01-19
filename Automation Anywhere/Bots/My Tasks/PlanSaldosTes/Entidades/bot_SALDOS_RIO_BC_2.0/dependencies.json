@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\PlanSaldosTes\\Entidades\\SALDOS_RIO_BC_2.0","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\PlanSaldosTes\\Entidades\\SALDOS_RIO_BC_2.0","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\DateTime\\DiaHabil","Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
