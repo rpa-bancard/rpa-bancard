@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\ExcelV1\\ColorEntireRange","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\ExcelV1\\ColorEntireRange","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\ExcelV1\\Microsoft.Office.Interop.Excel.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\ExcelV1\\Microsoft.Office.Interop.Excel.dll"]}
