@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\AUX_ResumenIVABancard","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Cruce de Saldos contables VS Mayores_Bancard\\AUX_ResumenIVABancard","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CadenasNumeros\\SeparadorDLL"]}
