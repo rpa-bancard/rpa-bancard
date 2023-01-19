@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\Altas de códigos\\Recepcion de planilla y carga de codigos\\Validar_Servicio_Prestacion","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Altas de códigos\\Recepcion de planilla y carga de codigos\\Validar_Servicio_Prestacion","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Check_Download\\Check","Automation Anywhere\\Bots\\My Metabots\\Empty_Folder\\Delete_Files","Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
