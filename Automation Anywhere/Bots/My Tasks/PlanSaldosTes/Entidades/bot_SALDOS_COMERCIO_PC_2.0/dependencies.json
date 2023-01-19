@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\PlanSaldosTes\\Entidades\\SALDOS_COMERCIO_PC_2.0","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\PlanSaldosTes\\Entidades\\SALDOS_COMERCIO_PC_2.0","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
