@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\CsvToExcelMetabot (1)\\CsvToExcelFile","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\CsvToExcelMetabot (1)\\CsvToExcelFile","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\CsvToExcelMetabot (1)\\CsvToExcelLibrary.dll","Automation Anywhere\\Bots\\My Metabots\\CsvToExcelMetabot (1)\\Interop.Microsoft.Office.Interop.Excel.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CsvToExcelMetabot (1)\\CsvToExcelLibrary.dll"]}
