@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\ConPtr\\ConPtr_MENSUALESDIARIOS_Main","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\ConPtr\\ConPtr_MENSUALESDIARIOS_Main","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting","Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConPtr_MensCort_atmaestro","Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConPtr_MensCort_atmvisa","Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConPtr_proceso_172170"]}
