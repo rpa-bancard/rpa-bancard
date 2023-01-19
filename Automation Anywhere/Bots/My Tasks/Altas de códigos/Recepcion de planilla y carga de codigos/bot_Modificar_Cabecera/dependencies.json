@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\Altas de códigos\\Recepcion de planilla y carga de codigos\\Modificar_Cabecera","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Altas de códigos\\Recepcion de planilla y carga de codigos\\Modificar_Cabecera","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
