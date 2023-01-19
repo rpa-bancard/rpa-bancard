@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Data Sort Range by 2 Columns","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Data Sort Range by 2 Columns","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Excelerate.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Excelerate.dll"]}
