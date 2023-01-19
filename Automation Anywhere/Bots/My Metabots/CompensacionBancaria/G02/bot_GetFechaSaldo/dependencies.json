@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G02\\GetFechaSaldo","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G02\\GetFechaSaldo","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\StringInString.dll"],"scannedDependencies":[]}
