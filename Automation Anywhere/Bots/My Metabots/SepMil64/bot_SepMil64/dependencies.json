@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\SepMil64\\SepMil64","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\SepMil64\\SepMil64","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\SepMil64\\Sepmil64.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\SepMil64\\Sepmil64.dll"]}
