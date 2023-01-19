@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\ConExt\\entidades\\ConExt_WS","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\ConExt\\entidades\\ConExt_WS","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Extractos\\Get_SaldoFinal","Automation Anywhere\\Bots\\My Metabots\\Extractos\\Pre-XML","Automation Anywhere\\Bots\\My Metabots\\Extractos\\ZWS_PROCEXTAUT","Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
