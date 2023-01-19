@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Home Alignment Text","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Excelerate.dll"]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Home Alignment Text","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Excelerate.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Excelerate\\Excelerate.dll"]}
