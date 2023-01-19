@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G04D-GASTOS BANC\\GastosBancarios","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G02\\EstructurarJson"]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G04D-GASTOS BANC\\GastosBancarios","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\StringInString.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\CompensacionBancaria\\G02\\EstructurarJson"]}
