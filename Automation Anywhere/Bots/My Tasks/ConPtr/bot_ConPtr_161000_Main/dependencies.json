@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\ConPtr\\ConPtr_161000_Main","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConPtr_161000a"]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\ConPtr\\ConPtr_161000_Main","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting","Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConPtr_161000a","Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConPtr_161000b"]}
