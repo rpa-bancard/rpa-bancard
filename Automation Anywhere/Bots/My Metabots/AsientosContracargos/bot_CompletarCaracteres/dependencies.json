@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\CompletarCaracteres","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\CompletarCaracteres","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\AsientosContracargos\\ReadWriteFile.dll"],"scannedDependencies":[]}
