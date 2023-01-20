@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\FechaConverter3","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\FechaConverter3","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\StringInString.dll"],"scannedDependencies":[]}
