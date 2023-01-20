@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\Separador_2matricesOR","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\Separador_2matricesOR","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\StringInString.dll"],"scannedDependencies":[]}
