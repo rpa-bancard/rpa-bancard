@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\PTR_N_usdpyg","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\PTR_N_usdpyg","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\StringInString.dll"],"scannedDependencies":[]}
