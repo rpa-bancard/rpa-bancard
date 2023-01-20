@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\Bank_G04D","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\5cifrasdecimales"]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\Bank_G04D","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\StringInString.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\reglascompensacion\\5cifrasdecimales"]}
