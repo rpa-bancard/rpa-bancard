@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\Extractos\\InOut_setText","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\Extractos\\InOut_setText","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\Extractos\\RowsOfCSV.dll"],"scannedDependencies":[]}
