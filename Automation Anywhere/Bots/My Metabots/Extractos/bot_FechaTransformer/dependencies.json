@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\Extractos\\FechaTransformer","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\Extractos\\FechaTransformer","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\Extractos\\RowsOfCSV.dll"],"scannedDependencies":[]}
