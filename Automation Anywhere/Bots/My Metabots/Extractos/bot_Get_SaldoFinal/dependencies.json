@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Metabots\\Extractos\\Get_SaldoFinal","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Extractos\\InOut_procesados"]}
+{"path":"Automation Anywhere\\Bots\\My Metabots\\Extractos\\Get_SaldoFinal","manualDependencies":["Automation Anywhere\\Bots\\My Metabots\\Extractos\\RowsOfCSV.dll"],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\Extractos\\InOut_procesados","Automation Anywhere\\Bots\\My Metabots\\Extractos\\RowsOfCSV.dll"]}
