@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\065\\065-Bancard_Insert_Datos","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Tasks\\065\\065-Bancard_Compare_Data"]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\065\\065-Bancard_Insert_Datos","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Scripts\\CloseSaveAsSAP.vbs","Automation Anywhere\\Bots\\My Tasks\\065\\065-Bancard_Compare_Data"]}

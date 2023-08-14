@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\065\\065-Procard_Insert_Datos","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Tasks\\065\\065-Procard_Compare_Data"]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\065\\065-Procard_Insert_Datos","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Scripts\\CloseSaveAsSAP.vbs","Automation Anywhere\\Bots\\My Tasks\\065\\065-Procard_Compare_Data"]}

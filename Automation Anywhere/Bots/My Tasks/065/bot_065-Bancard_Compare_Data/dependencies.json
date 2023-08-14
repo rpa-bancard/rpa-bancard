@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\065\\065-Bancard_Compare_Data","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\065\\065-Bancard_Compare_Data","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Scripts\\KillExcel.vbs"]}
