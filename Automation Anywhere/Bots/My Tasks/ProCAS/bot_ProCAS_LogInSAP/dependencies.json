@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\ProCAS\\ProCAS_LogInSAP","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\SAP_Metabot\\Connections\\ConnectOnExistingSession(0)"]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\ProCAS\\ProCAS_LogInSAP","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\SAP_Metabot\\Connections\\ConnectOnExistingSession(0)"],"metadataDependencies":[]}
