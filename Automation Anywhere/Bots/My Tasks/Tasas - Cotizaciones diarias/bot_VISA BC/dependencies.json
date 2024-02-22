@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\Tasas - Cotizaciones diarias\\VISA BC","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bot Store\\FindWorkingDate\\A2019 - FindNextWorkingDate"],"metadataDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Tasas - Cotizaciones diarias\\VISA BC","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\DateTime\\DiaHabil"],"metadataDependencies":[]}
