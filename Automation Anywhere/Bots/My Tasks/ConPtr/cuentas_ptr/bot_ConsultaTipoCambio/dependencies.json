@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConsultaTipoCambio","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\DateTime\\DiaAnterior","Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\ConPtr\\cuentas_ptr\\ConsultaTipoCambio","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Metabots\\DateTime\\DiaAnterior","Automation Anywhere\\Bots\\My Metabots\\Reporting\\Reporting"],"metadataDependencies":[]}
